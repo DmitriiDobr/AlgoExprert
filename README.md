@@ -1,2 +1,2 @@
 # AlgoExprert
-Решенние задач на платформе AlgoExpert
+Решение задач на платформе AlgoExpert.
